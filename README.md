@@ -104,3 +104,4 @@ No, this warning is here, where you can see that the task providers are stored i
 **I allowed the notifications, and the module shows that the notifications are allowed but even then the notifications are not retrieved. There is anything else that I can do in this case?**
 
 It is known that old Android versions and device particularities sometimes require a reboot or even to be turned off completely and then turned on again to have the notification listener working properly.
+# react-native-notification-listener-png-jpeg
